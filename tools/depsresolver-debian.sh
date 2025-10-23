@@ -33,5 +33,5 @@ read -p "Press Enter to Continue"
 
 sudo apt update && sudo apt upgrade
 
-sudo apt install git make bzip2 gcc libncurses-dev libssl-dev vim flex  bison bc cpio libelf-dev syslinux dosfstools libssl-dev
+sudo apt install git make bzip2 gcc libncurses-dev libssl-dev vim flex  bison bc cpio libelf-dev syslinux dosfstools libdw-dev
 
